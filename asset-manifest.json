@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mutations/static/css/main.536e8561.css",
+    "main.js": "/mutations/static/js/main.189c5550.js",
+    "static/js/787.8356b3a5.chunk.js": "/mutations/static/js/787.8356b3a5.chunk.js",
+    "index.html": "/mutations/index.html",
+    "main.536e8561.css.map": "/mutations/static/css/main.536e8561.css.map",
+    "main.189c5550.js.map": "/mutations/static/js/main.189c5550.js.map",
+    "787.8356b3a5.chunk.js.map": "/mutations/static/js/787.8356b3a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.536e8561.css",
+    "static/js/main.189c5550.js"
+  ]
+}
