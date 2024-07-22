@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mutations/static/css/main.536e8561.css",
-    "main.js": "/mutations/static/js/main.987047fe.js",
-    "static/js/787.8356b3a5.chunk.js": "/mutations/static/js/787.8356b3a5.chunk.js",
+    "main.css": "/mutations/static/css/main.0590c54d.css",
+    "main.js": "/mutations/static/js/main.97398a89.js",
+    "static/js/787.f499ff4b.chunk.js": "/mutations/static/js/787.f499ff4b.chunk.js",
     "index.html": "/mutations/index.html",
-    "main.536e8561.css.map": "/mutations/static/css/main.536e8561.css.map",
-    "main.987047fe.js.map": "/mutations/static/js/main.987047fe.js.map",
-    "787.8356b3a5.chunk.js.map": "/mutations/static/js/787.8356b3a5.chunk.js.map"
+    "main.0590c54d.css.map": "/mutations/static/css/main.0590c54d.css.map",
+    "main.97398a89.js.map": "/mutations/static/js/main.97398a89.js.map",
+    "787.f499ff4b.chunk.js.map": "/mutations/static/js/787.f499ff4b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.536e8561.css",
-    "static/js/main.987047fe.js"
+    "static/css/main.0590c54d.css",
+    "static/js/main.97398a89.js"
   ]
 }
